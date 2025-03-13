@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="center" width="50%" height="50%">
 <!--
 **sirish141/sirish141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
